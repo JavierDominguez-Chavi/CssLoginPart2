@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3e38b011-0838-453f-ba37-3c9adbd9082b/resourceGroups/DesarrolloWeb/providers/Microsoft.Web/sites/thechavi",
+    "appService.deploySubpath": "."
+}
